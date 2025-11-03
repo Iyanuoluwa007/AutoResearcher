@@ -1,4 +1,4 @@
-# 🤖 AutoResearcher — Local RAG with Ollama + Streamlit
+# 🤖 AutoResearcher: Local RAG with Ollama + Streamlit
 
 > 🧠 A fully local, privacy-preserving AI research assistant built with **Ollama**, **LangChain**, and **Streamlit** no cloud APIs, no cost, no rate limits.
 
